@@ -177,14 +177,14 @@
               'text': _0x52f7b6,
               'contextInfo': {
                 'externalAdReply': {
-                  'title': "X BOT MD UPDATES ",
+                  'title': "𝐙𝐞𝐭𝐫𝐨 𝐃𝐞𝐯𝐢𝐥",
                   'body': "Whatsapp Channel",
-                  'sourceUrl': 'https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00',
-                  'mediaUrl': 'https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00',
+                  'sourceUrl': 'https://zetro.com',
+                  'mediaUrl': 'https://zetro.com',
                   'mediaType': 0x1,
                   'showAdAttribution': false,
                   'renderLargerThumbnail': true,
-                  'thumbnailUrl': 'https://i.imgur.com/Q2UNwXR.jpg'
+                  'thumbnailUrl': 'https://files.catbox.moe/925dls.jpg'
                 }
               }
             }, {
